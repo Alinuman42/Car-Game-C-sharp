@@ -10,3 +10,9 @@ C#
 Windows Forms
 Visual Studio
 
+
+## Screenshots
+### Gameplay
+![Gameplay](images/gameplay.png)
+### Game Over
+![Game Over](images/gameplayOVER.png)
